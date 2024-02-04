@@ -2,7 +2,7 @@ Oii! Eu sou a Ana Glória
 
 ##
  
-![Ana Gloria's GitHub stats](https://github-readme-stats.vercel.app/api?username=anagloria22&show_icons=true&theme=radical)
+![Ana Glória's GitHub stats](https://github-readme-stats.vercel.app/api?username=anagloria22&show_icons=true&theme=radical)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anagloria22&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 <div style="display: inline_block">
