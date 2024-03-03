@@ -1,6 +1,10 @@
-Oii! Eu sou a Ana Glória
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8B30DB&height=120&section=header"/>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=8B30DB&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Ana+Glória;I'm+20+years+old;I'm+from+Brazil;I+study+systems+development;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 ##
+
+![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=anagloria22&bg_color=000000&color=C430DB&line=C430DB&point=CEA7DB&area=true&hide_border=true)
  
 ![Ana Glória's GitHub stats](https://github-readme-stats.vercel.app/api?username=anagloria22&show_icons=true&theme=radical)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anagloria22&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
@@ -19,8 +23,16 @@ Oii! Eu sou a Ana Glória
   <a href="mailto:anaparente196@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a  
 </div>
 
+<div align="center">
+<br><p align="centre"><b>Visitors Count</b></p>  
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{anagloria22}/count.svg" /></p> 
+<br>
+</div>
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/anagloria22/anagloria22/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/anagloria22/anagloria22/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/anagloria22/anagloria22/output/github-contribution-grid-snake.svg">
 </picture>
+
+ <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8B30DB&height=120&section=footer"/>
